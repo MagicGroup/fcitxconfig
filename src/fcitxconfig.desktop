@@ -1,0 +1,20 @@
+[Desktop Entry]
+Exec=kcmshell4 fcitxconfig
+Icon=qfcitxconfig
+Type=Service
+X-KDE-ServiceTypes=KCModule,KCModuleInit
+
+X-KDE-Library=kcm_fcitxconfig
+X-KDE-ParentApp=kcontrol
+
+X-KDE-System-Settings-Parent-Category=advanced-user-settings
+
+Name=Fcitx configure
+Name[zh_CN]=Fcitx 配置
+Name[zh_TW]=Fcitx 配置
+
+Comment=Fcitx configure module
+Comment[zh_CN]=Fcitx 配置模块
+Comment[zh_TW]=Fcitx 配置模块
+
+X-KDE-Keywords=Fcitx Configure Module

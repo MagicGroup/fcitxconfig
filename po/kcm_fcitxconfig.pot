@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-19 20:21+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/fcitxconfig.cpp:11
+msgid "kcmfcitxconfig"
+msgstr ""
+
+#: src/fcitxconfig.cpp:11
+msgid "kcm_fcitxconfig"
+msgstr ""
+
+#: src/fcitxconfig.cpp:27
+msgid "Fcitx Configure"
+msgstr ""
+
+#: src/fcitxconfig.cpp:27
+msgid "Magic Linux Fcitx Configure Module"
+msgstr ""
+
+#: src/fcitxconfig.cpp:27
+msgid "1.5.3"
+msgstr ""
+
+#: src/fcitxconfig.cpp:28
+msgid "Magic Linux Fcitx Configure Control Panel Module"
+msgstr ""
+
+#: src/fcitxconfig.cpp:30
+msgid "(c) 2008-2009 Magic Group"
+msgstr ""
+
+#: src/fcitxconfig.cpp:31
+msgid "Liu Di"
+msgstr ""
+
+#: src/fcitxconfig.cpp:31
+msgid "QT Edition"
+msgstr ""
+
+#: src/fcitxconfig.cpp:31
+msgid "liudidi@gmail.com"
+msgstr ""
+
+#: src/fcitxconfig.cpp:32
+msgid "lovewilliam"
+msgstr ""
+
+#: src/fcitxconfig.cpp:32
+msgid "Port QT edition to kcm module"
+msgstr ""
+
+#: src/fcitxconfig.cpp:32
+msgid "lovewilliam@gmail.com"
+msgstr ""
+
+#: src/fcitxconfig.cpp:33
+msgid "Ni Hui"
+msgstr ""
+
+#: src/fcitxconfig.cpp:33
+msgid "Port to cmake, Port to Qt4/KDE4, Port to new kpluginfactory"
+msgstr ""
+
+#: src/fcitxconfig.cpp:33
+msgid "shuizhuyuanluo@126.com"
+msgstr ""
